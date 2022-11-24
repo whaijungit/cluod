@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.ant-layout-header {
+  background-color: #fff !important;
+}
+
+.ant-menu {
+  border-bottom: none;
+}
+
+
+.ant-layout-content {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.content {
+  margin: 1em;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
